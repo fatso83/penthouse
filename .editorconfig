@@ -1,0 +1,9 @@
+# EditorConfig.org
+# - cross-platform settings for editors
+
+# Indentation override for all JS under lib directory
+[**.js]
+indent_style = tab
+indent_size = 4
+trim_trailing_whitespace = true
+insert_final_newline = true
